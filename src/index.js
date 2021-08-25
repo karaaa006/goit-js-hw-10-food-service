@@ -1,3 +1,3 @@
-import './sass/main.scss';
+import './styles.css';
 import './js/template.js';
 import './js/theme.js';
